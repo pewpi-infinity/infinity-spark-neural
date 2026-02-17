@@ -1,0 +1,20 @@
+{
+  "machine": "infinity-spark-neural",
+  "title": "Spark Neural",
+  "emoji": "\ud83e\udde0",
+  "purpose": "Neural layer learns from activity patterns. Predicts updates, suggests new connections.",
+  "tools": [
+    "Neural Map",
+    "Pattern Learner",
+    "Prediction Engine",
+    "Suggester"
+  ],
+  "color": "#ff4081",
+  "network": "infinity-forge",
+  "connections": [
+    "infinity-crown-index",
+    "infinity-tools",
+    "smug_look",
+    "mongoose.os"
+  ]
+}
